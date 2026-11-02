@@ -1,0 +1,5 @@
+{
+  "provider": "VPN Gate Public Relay",
+  "api": "https://www.vpngate.net/api/iphone/",
+  "note": "Live server data is fetched at runtime. Public servers can change or disappear."
+}
